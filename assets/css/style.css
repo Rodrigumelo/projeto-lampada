@@ -1,0 +1,18 @@
+.lampada {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btns {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+}
